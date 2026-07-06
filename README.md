@@ -112,7 +112,6 @@
 
 | Proyek | Deskripsi | Stack |
 |--------|-----------|-------|
-| **FilosiApp** | Sistem manajemen inventaris & POS internal | Laravel · Docker · MySQL · Bootstrap |
 | **LIXIR** | Landing page brand laptop lokal Filosi | React · Vite · Tailwind |
 | **WA Blast** | Aplikasi broadcast WhatsApp untuk bisnis | Laravel · Docker · WAHA API |
 | **Branch Map** | Peta interaktif cabang Filosi se-Indonesia | React Leaflet |

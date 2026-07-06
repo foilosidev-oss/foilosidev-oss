@@ -17,30 +17,30 @@
 
 ---
 
-## 🏢 Tentang Kami
+## 🏢 About Us
 
-> **PT Filosi Exider Inovasi** adalah perusahaan teknologi berbasis di Kupang, Nusa Tenggara Timur, yang bergerak di bidang distribusi perangkat IT, distribusi produk Apple, pendidikan digital, dan pengembangan perangkat lunak. Kami berkomitmen menghadirkan solusi teknologi terbaik untuk Indonesia Timur.
+> **PT Filosi Exider Inovasi** is a technology company based in Kupang, East Nusa Tenggara (NTT), specializing in IT hardware distribution, Apple product distribution, digital education, and software development. We are committed to delivering the best technology solutions for Eastern Indonesia.
 
 ---
 
-## 🌐 Ekosistem Filosi
+## 🌐 Filosi Ecosystem
 
 <table>
   <tr>
     <td align="center" width="33%">
       <h3>💻 Filosi Laptop</h3>
-      <p>Toko laptop & perangkat IT terpercaya di Kupang, NTT</p>
-      <img src="https://img.shields.io/badge/IT_Retail-aktif-30cdb6?style=flat-square&labelColor=161b22"/>
+      <p>Trusted laptop & IT device store in Kupang, NTT</p>
+      <img src="https://img.shields.io/badge/IT_Retail-active-30cdb6?style=flat-square&labelColor=161b22"/>
     </td>
     <td align="center" width="33%">
-      <h3> iFilosi</h3>
-      <p>Authorized reseller produk Apple — iPhone, Mac, iPad & aksesoris</p>
-      <img src="https://img.shields.io/badge/Apple_Reseller-aktif-8b949e?style=flat-square&labelColor=161b22"/>
+      <h3>🍏 iFilosi</h3>
+      <p>Authorized reseller of Apple products — iPhone, Mac, iPad & accessories</p>
+      <img src="https://img.shields.io/badge/Apple_Reseller-active-8b949e?style=flat-square&labelColor=161b22"/>
     </td>
     <td align="center" width="33%">
       <h3>🎓 Logosi Institute</h3>
-      <p>Institut pendidikan teknologi & komputasi untuk generasi digital NTT</p>
-      <img src="https://img.shields.io/badge/Education_Tech-aktif-30cdb6?style=flat-square&labelColor=161b22"/>
+      <p>Technology & computing education institute for NTT's digital generation</p>
+      <img src="https://img.shields.io/badge/Education_Tech-active-30cdb6?style=flat-square&labelColor=161b22"/>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 Statistik
+## 📊 Statistics
 
 <div align="center">
 
@@ -87,15 +87,15 @@
   <tr>
     <td align="center">
       <h2>3+</h2>
-      <sub>Anak Perusahaan</sub>
+      <sub>Subsidiaries</sub>
     </td>
     <td align="center">
       <h2>5+</h2>
-      <sub>Tahun Beroperasi</sub>
+      <sub>Years Operating</sub>
     </td>
     <td align="center">
       <h2>NTT</h2>
-      <sub>Fokus Regional</sub>
+      <sub>Regional Focus</sub>
     </td>
     <td align="center">
       <h2>🇮🇩</h2>
@@ -108,17 +108,17 @@
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
-| Proyek | Deskripsi | Stack |
+| Project | Description | Stack |
 |--------|-----------|-------|
-| **LIXIR** | Landing page brand laptop lokal Filosi | React · Vite · Tailwind |
-| **WA Blast** | Aplikasi broadcast WhatsApp untuk bisnis | Laravel · Docker · WAHA API |
-| **Branch Map** | Peta interaktif cabang Filosi se-Indonesia | React Leaflet |
+| **LIXIR** | Landing page for Filosi's local laptop brand | React · Vite · Tailwind |
+| **WA Blast** | WhatsApp broadcast application for businesses | Laravel · Docker · WAHA API |
+| **Branch Map** | Interactive map of Filosi branches across Indonesia | React Leaflet |
 
 ---
 
-## 📬 Hubungi Kami
+## 📬 Contact Us
 
 <div align="center">
 
@@ -134,6 +134,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,30cdb6&height=100&section=footer" width="100%"/>
 
-<sub>© 2025 PT Filosi Exider Inovasi · Kupang, Nusa Tenggara Timur · All rights reserved</sub>
+<sub>© 2025 PT Filosi Exider Inovasi · Kupang, East Nusa Tenggara · All rights reserved</sub>
 
 </div>

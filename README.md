@@ -124,8 +124,8 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-filosi.co.id-30cdb6?style=for-the-badge&labelColor=161b22)](https://filosi.co.id)
-[![Email](https://img.shields.io/badge/📧_Email-hello@filosi.co.id-8b949e?style=for-the-badge&labelColor=161b22)](mailto:hello@filosi.co.id)
-[![Instagram](https://img.shields.io/badge/Instagram-@filosi.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/filosi.id)
+[![Email](https://img.shields.io/badge/📧_Email-foilosidev@gmail.com-8b949e?style=for-the-badge&labelColor=161b22)](mailto:foilosidev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@filosigrup-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/filosigrup)
 
 </div>
 
